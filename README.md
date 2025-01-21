@@ -41,7 +41,7 @@ A modern multi-timer application built with Flutter, featuring both countdown an
 ### General Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/timer_app
+git clone https://github.com/bradykuo/Flutter-Timer-App
 cd timer_app
 ```
 
